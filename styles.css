@@ -1,0 +1,386 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.menu-container {
+    color: #fff;
+    background-color: #002c5e;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+  }
+
+.menu {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+.login {
+    margin-left: 20px;
+  }
+
+.signup {
+    margin-left: auto;
+  }
+
+.banner-container {
+    background-color: black;
+    text-align: center;
+  }
+
+.banner {
+    text-align: center;
+  }
+
+
+
+.delphi-container {
+  border: 1px solid blue;
+  background-color: black;
+  color: white;
+  padding: 60px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  }
+
+.delphi-title {
+  border: 1px solid red;
+  text-align: center;
+  font-family: "TimesNewRoman";
+  font-size: 64px;
+  padding: 10px 20px;
+  display: flex;
+  }
+
+  /*Description*/
+.delphi-description {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-description-pic-container {
+    padding-left: 5px;
+  }
+.delphi-description-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-description-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-description-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+
+
+.delphi-description-2 {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-description-2-pic-container {
+    padding-left: 5px;
+  }
+.delphi-description-2-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-description-2-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-description-2-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+  /*End Description*/
+
+  /*Oracle Section*/
+.delphi-oracle {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-oracle-pic-container {
+    padding-left: 5px;
+  }
+.delphi-oracle-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-oracle-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-oracle-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+  /*End Oracle Section*/
+
+  /*Apollo Section*/
+.delphi-apollo {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-apollo-pic-container {
+    padding-left: 5px;
+  }
+.delphi-apollo-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-apollo-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-apollo-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+
+.delphi-apollo-2 {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-apollo-2-pic-container {
+    padding-left: 5px;
+  }
+.delphi-apollo-2-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-apollo-2-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-apollo-2-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+  /*End Apollo Section*/
+
+  /*Tholos Section*/
+.delphi-tholos {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-tholos-pic-container {
+    padding-left: 5px;
+  }
+.delphi-tholos-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-tholos-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-tholos-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+
+.delphi-tholos-2 {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-tholos-2-pic-container {
+    padding-left: 5px;
+  }
+.delphi-tholos-2-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-tholos-2-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-tholos-2-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+
+.delphi-tholos-3 {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-tholos-3-pic-container {
+    padding-left: 5px;
+  }
+.delphi-tholos-3-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-tholos-3-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-tholos-3-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+  /*End Tholos Section*/
+
+  /*Theatre Section*/
+.delphi-theatre {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-theatre-pic-container {
+    padding-left: 5px;
+  }
+.delphi-theatre-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-theatre-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-theatre-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+
+.delphi-theatre-2 {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-theatre-2-pic-container {
+    padding-left: 5px;
+  }
+.delphi-theatre-2-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-theatre-2-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-theatre-2-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+  /*End Theatre Section*/
+
+  /*Stadium Section*/
+.delphi-stadium {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-stadium-pic-container {
+    padding-left: 5px;
+  }
+.delphi-stadium-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-stadium-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-stadium-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+
+.delphi-stadium-2 {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-stadium-2-pic-container {
+    padding-left: 5px;
+  }
+.delphi-stadium-2-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-stadium-2-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-stadium-2-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+
+.delphi-stadium-3 {
+    border: 1px solid red;
+    font-family: "TimesNewRoman";
+    padding: 20px 20px;
+    display: flex;
+  }
+.delphi-stadium-3-pic-container {
+    padding-left: 5px;
+  }
+.delphi-stadium-3-pic-title {
+    text-decoration: underline;
+    font-size: 40px;
+  }
+.delphi-stadium-3-pic-image {
+    padding-top: 16px;
+    padding-right: 20px;
+  }
+.delphi-stadium-3-text {
+    text-align: left;
+    font-size: 30px;
+    border-left: 1px solid white;
+    padding: 50px 20px;
+  }
+  /*End Stadium Section*/
+
+  /*Treasury Section*/
+  /*End Treasury Section*/
+
